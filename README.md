@@ -1,5 +1,5 @@
-# Politechnika Poznańska, Optymalizacja Kombinatoryczna
-(informatyka, sem. III)
+# Optymalizacja Kombinatoryczna
+(Politechnika Poznańska, informatyka, sem. III)
 
 Implementacja algorytmów: mrówkowego oraz zachłannego rozwiązujących problem komiwojażera.
 
